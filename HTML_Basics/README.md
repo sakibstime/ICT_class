@@ -1,6 +1,6 @@
 open tag       <tag>
 close tag      </tag>
-
+<pre>
 <html> --------- start
 </html> -------- close
 
@@ -137,3 +137,5 @@ Query Language
 
 Usage:
 -> data store
+
+</pre>
