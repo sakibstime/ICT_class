@@ -21,12 +21,12 @@ Human ------ head + body + foot
  </html>
 ```
 
-**Website basic**
+# Website basic
 
 Head
 -----------------
-Title
-CSS code
+* Title
+* CSS code
 
 
 body
