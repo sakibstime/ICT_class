@@ -63,6 +63,7 @@ Back-end:
 **hyperlink**
 ---
 > Same website page -- internal link
+
 > Other website page -- external link
 
 hyperlink -- connect
