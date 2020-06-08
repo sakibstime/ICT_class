@@ -15,7 +15,8 @@ Human ------ head + body + foot
 
 ```html
 <html>
- <head> </head> + <body> </body>    
+ <head> </head>
+ <body> </body>    
  </html>
 ```
 
@@ -96,6 +97,7 @@ TAGS
 ***Ordered***
 
 -> ol - ordered LIST
+
 -> li - list item
 ```html
 <ol>
@@ -104,7 +106,7 @@ TAGS
 ```
 
 ***Unordered***
----
+
 -> ul - Unordered list
 
 ```html
@@ -148,9 +150,8 @@ Usage:
 
 
 **Today's class**
-
-[9 June 2020]
 ---
+[9 June 2020]
 * HTML Basic
 * Table
 * List
