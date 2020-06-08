@@ -1,3 +1,8 @@
+**TAG DETAILS**
+https://paste.ubuntu.com/p/JYzq6zqnzQ/
+
+---------------
+
 open tag       <tag>
 close tag      </tag>
 
@@ -50,8 +55,8 @@ react.js
 
 ---------------
 
-paragraph
-
+**paragraph**
+p , pre
 <p> </p>
 <pre> </pre>
 
@@ -63,20 +68,25 @@ other website page -- external link
 
 hyperlink -- connect
 
-tag --
-
-<a href="url">text  </a>
 href -- hyperlink reference
+
+<a href="url"> text  </a>
+
 
 
 
 **Table**
+
+<code>
+table = initialize Table
+
 <table>
 <th> </th> - table header
 <tr> </tr> - table raw
 <td> </td> - table
 
 </table> - It's a table
+</code>
 
 
 **LIST**
@@ -137,6 +147,3 @@ Query Language
 
 Usage:
 -> data store
-
-
-
