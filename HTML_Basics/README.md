@@ -1,6 +1,4 @@
-**TAG DETAILS**
-https://paste.ubuntu.com/p/JYzq6zqnzQ/
-
+*TAG DETAILS*
 
 ```html
 open tag       <tag>
@@ -66,7 +64,7 @@ Back-end:
 
 > Other website page -- external link
 
-hyperlink -- connect
+Usage of hyperlink -- connect between two pages
 
 href -- hyperlink reference
 
@@ -95,19 +93,19 @@ table = initialize Table
 
 TAGS
 
-***order***
+***Ordered***
 
-ol - ordered LIST
-li - list item
+-> ol - ordered LIST
+-> li - list item
 ```html
 <ol>
 <li> <li>
 </ol>
 ```
 
-***Unorder***
+***Unordered***
 ---
-ul - Unordered list
+-> ul - Unordered list
 
 ```html
 <ul>
@@ -117,8 +115,8 @@ ul - Unordered list
 
 **IMAGE**
 ---
-img - image
-src - source [path/url]
+* img - image
+* src - source [path/url]
 
 ```html
 <img src="url/path">
@@ -137,24 +135,30 @@ TAG - style
 <p style="color: "> text/paragraph </p>
 ```
 
-
-**Today's class**
----
-<ul>
-<li> HTML Basic</li>
-<li> Table</li>
-<li> List</li>
-<li> Image</li>
-<li> Text Color</li>
-</ul>
-
-
 **Database (DB)**
 ---
-Back-end
+[Back-end]
+
 SQL->> mySQL, MongoBD,
 
 Structured Query Language (SQL)
 
 Usage:
 -> data store
+
+
+**Today's class**
+
+[9 June 2020]
+---
+* HTML Basic
+* Table
+* List
+* Image
+* Text Color
+
+**Better Source to learn HTML**
+https://www.w3schools.com/html/
+
+***Rough text of this file:***
+https://paste.ubuntu.com/p/JYzq6zqnzQ/
