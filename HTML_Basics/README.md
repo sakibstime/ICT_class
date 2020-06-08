@@ -17,7 +17,7 @@ Human ------ head + body + foot
 <html>
  <head> </head>
  <body> </body>    
- </html>
+</html>
 ```
 
 # Website basic
