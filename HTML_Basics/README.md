@@ -31,25 +31,24 @@ Head
 
 body
 -------------
-paragraph
-header type - h1[biggest], h2 [bigger] , h3,  [font size]
-<br>
-js code
+* paragraph
+* header type - h1[biggest], h2 [bigger] , h3,  [font size]
+* js code
 
 
 ***Website***
 ---
 Front-end:
-HTML
-CSS
-JS- Javascript
+* HTML
+* CSS
+* JS- Javascript
 
 Back-end:
 [Any one]
-PHP
-Python - Django
-Ruby
-react.js
+* PHP
+* Python - Django
+* Ruby
+* react.js and many more.
 
 
 **paragraph**
@@ -63,8 +62,8 @@ react.js
 
 **hyperlink**
 ---
-Same website page -- internal link
-other website page -- external link
+> Same website page -- internal link
+> Other website page -- external link
 
 hyperlink -- connect
 
