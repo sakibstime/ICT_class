@@ -1,30 +1,33 @@
 **TAG DETAILS**
 https://paste.ubuntu.com/p/JYzq6zqnzQ/
 
----------------
-
+---
+```html
 open tag       <tag>
 close tag      </tag>
 
 <html> --------- start
 </html> -------- close
+```
 
 Human ------ head + body + foot
 
 
-HTML - Basic
+*HTML - Basic*
 
+```html
 <html>
  <head> </head> + <body> </body>    
  </html>
+```
 
-
-Website basic
+**Website basic**
 
 Head
 -----------------
 Title
 CSS code
+
 
 body
 -------------
@@ -33,36 +36,32 @@ header type - h1[biggest], h2 [bigger] , h3,  [font size]
 js code
 
 
-
-
-Website
--------------
-Front-end
+***Website***
+---
+Front-end:
 HTML
 CSS
 JS- Javascript
 
-Back-end
-----------
-**Any one**
-
+Back-end:
+[Any one]
 PHP
-
 Python - Django
 Ruby
 react.js
 
 
----------------
-
 **paragraph**
-p , pre
-<p> </p>
-<pre> </pre>
+---
+```html
+<p> </p> - paragraph
+<pre> </pre> - preformatted text.
 
 <br> -- break - line break
+```
 
 **hyperlink**
+---
 Same website page -- internal link
 other website page -- external link
 
@@ -70,12 +69,14 @@ hyperlink -- connect
 
 href -- hyperlink reference
 
+```html
 <a href="url"> text  </a>
-
+```
 
 
 
 **Table**
+---
 table = initialize Table
 ```html
 <table>
@@ -87,60 +88,72 @@ table = initialize Table
 ```
 
 **LIST**
-
+---
 -> Order List সাজানো- গোছানো - 1, 2,3 ,4  
 -> Unorder List - bold/point list
 
-TAG
---
-order
+TAGS
 
-ol - order LIST
+***order***
+
+ol - ordered LIST
 li - list item
-
+```html
 <ol>
 <li> <li>
 </ol>
+```
 
-Unorder
-ul - Unorder list
+***Unorder***
+---
+ul - Unordered list
+
+```html
 <ul>
 <li> </li>
 </ul>
-
+```
 
 **IMAGE**
+---
 img - image
 src - source [path/url]
 
+```html
 <img src="url/path">
+```
 
 **TXT color**
-Color - CSS
+---
+Color - CSS (Cascading Style Sheets)
 ***Way of use CSS***
 1. Head
 2. TAG
 3. Creating new file [filename.css]
 
 TAG - style
-
+```html
 <p style="color: "> text/paragraph </p>
-
+```
 
 
 **Today's class**
-HTML Basic
-Table
-List
-Image
-Color
+---
+<ul>
+<li> HTML Basic</li>
+<li> Table</li>
+<li> List</li>
+<li> Image</li>
+<li> Text Color</li>
+</ul>
 
 
+**Database (DB)**
+---
 Back-end
--> Database (DB)
 SQL->> mySQL, MongoBD,
 
-Query Language
+Structured Query Language (SQL)
 
 Usage:
 -> data store
