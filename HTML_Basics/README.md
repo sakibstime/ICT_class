@@ -76,18 +76,15 @@ href -- hyperlink reference
 
 
 **Table**
-
-<code>
 table = initialize Table
-
+```html
 <table>
 <th> </th> - table header
 <tr> </tr> - table raw
 <td> </td> - table
 
 </table> - It's a table
-</code>
-
+```
 
 **LIST**
 
