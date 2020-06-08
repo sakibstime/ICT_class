@@ -1,7 +1,7 @@
 **TAG DETAILS**
 https://paste.ubuntu.com/p/JYzq6zqnzQ/
 
----
+
 ```html
 open tag       <tag>
 close tag      </tag>
@@ -33,6 +33,7 @@ body
 -------------
 paragraph
 header type - h1[biggest], h2 [bigger] , h3,  [font size]
+<br>
 js code
 
 
